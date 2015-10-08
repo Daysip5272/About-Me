@@ -4,7 +4,7 @@ _Studen_
 ####**High School of Telecommunication Arts and Technology** 
 daysip5272@hstat.org 
 Im Daysi I am 15 years old and im a sophomore in high school. Right now im helping out in the college office and im getting to find out what college I want to go.   
-Schedule 
+Schedule   
 1: Software Engineering  
 2: Serves  
 3: Physics   
