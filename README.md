@@ -13,3 +13,9 @@ Schedule
 6: English 
 7: Lunch 
 8: US History 
+######AFTER SCHOOL
+* Go play soccer 
+* Go home 
+* Eat 
+* Do homework
+* Listen to [Pandora](www.pandora.com)
