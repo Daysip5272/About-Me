@@ -1,9 +1,9 @@
 #Daysi Patino 
 ---
-_Studen_  
+_Student_  
 ####**High School of Telecommunication Arts and Technology** 
 daysip5272@hstat.org 
-Im Daysi I am 15 years old and im a sophomore in high school. Right now im helping out in the college office and im getting to find out what college I want to go.   
+Im Daysi I am a 15 year sophomore in high school. I'm currently helping out in the college office and im getting to find out what college I want to go.   
 _Schedule_   
 1: Software Engineering  
 2: Serves  
@@ -18,4 +18,5 @@ _Schedule_
 * Go home 
 * Eat 
 * Do homework
-* Listen to [Pandora](www.pandora.com)
+* Listen to [Pandora](www.pandora.com)  
+* _Reviewed By: Ahmed Abdalla_
